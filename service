@@ -1,0 +1,378 @@
+{
+  "data": [
+    {
+      "id": 16,
+      "name": "保洁服务",
+      "type": 2,
+      "icon": "http://dingdangmall.wozdf.com/Public/static/images/service/2018-10-23/1810231400171202.png",
+      "keywords": "自营保洁员 守时保质 ",
+      "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2018-05-03/201805031856424370.png",
+      "info": "[{\"second_id\":\"216\",\"name\":\"\\u6df1\\u5ea6\\u4fdd\\u6d01\",\"info_type\":\"1\",\"pay_type\":\"1\",\"pay_name\":\"\\u670d\\u52a1\\u9762\\u79ef\",\"pay_info\":{\"pay_info_id\":\"278\",\"price\":\"9.90\",\"unit\":\"\\u5e73\\u7c73\",\"num\":50,\"hour\":\"15.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}},{\"second_id\":\"218\",\"name\":\"\\u65e5\\u5e38\\u4fdd\\u6d01\",\"info_type\":\"3\",\"pay_type\":\"1\",\"pay_name\":\"\\u670d\\u52a1\\u65f6\\u957f\",\"pay_info\":{\"pay_info_id\":\"280\",\"price\":\"47.00\",\"unit\":\"\\u5c0f\\u65f6\",\"num\":3,\"hour\":\"1.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}}]",
+      "iconColor": "http://dingdangmall.wozdf.com/Public/static/images/service/2018-10-23/1810231509367008.png",
+      "infos": {
+				"price": "9.90",
+				"unit": "元\/平米",
+				"jgbz": "",
+				"img": "https:\/\/ks3-cn-beijing.ksyun.com\/ddm\/Public\/static\/images\/service\/2018-05-10\/201805101420194053.png",
+				"wxts": "1.深度保洁针对追求高品质打扫客户群，打造房间“360度无死角”保洁新体验；\r\n2.此项目距离服务时间两小时内取消扣除订单金额20%违约金，一小时内扣除50%违约金，已到预约时间取消订单扣除全部订单金额；\r\n3.此服务报价为不含税价格，不提供发票；\r\n4.凡预约时间超过当天17点以后的订单，每单每小时需额外加收10元\/小时的加班费；\r\n5.此服务不包含：擦窗户玻璃、水晶灯（及其他复杂灯具）、贵重物品、易碎物品，不带梯子；\r\n"
+			}
+    },
+    {
+      "id": 19,
+      "name": "专业擦玻璃",
+      "type": 2,
+      "icon": "http://dingdangmall.wozdf.com/Public/static/images/service/2018-10-23/1810231400221086.png",
+      "keywords": "玻璃里外清洗",
+      "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2018-04-23/201804231855214954.png",
+      "info": "[{\"second_id\":\"188\",\"name\":\"\\u6df1\\u5ea6\",\"info_type\":\"1\",\"pay_type\":\"1\",\"pay_name\":\"\\u73bb\\u7483\\u9762\\u79ef\\uff08\\u542b\\u7a97\\u6846\\uff09\",\"pay_info\":{\"pay_info_id\":\"244\",\"price\":\"15.80\",\"unit\":\"\\u5e73\\u65b9\",\"num\":15,\"hour\":\"15.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}},{\"second_id\":\"224\",\"name\":\"\\u6309\\u65f6\\u95f4\",\"info_type\":\"3\",\"pay_type\":\"1\",\"pay_name\":\"\\u65f6\\u957f\\uff08\\u4fdd\\u6d01+\\u73bb\\u7483\\uff09\",\"pay_info\":{\"pay_info_id\":\"293\",\"price\":\"89.00\",\"unit\":\"\\u5c0f\\u65f6\",\"num\":2,\"hour\":\"1.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}}]",
+      "iconColor": "http://dingdangmall.wozdf.com/Public/static/images/service/2018-10-23/1810231509472394.png",
+      "infos": {
+				"price": "15.80",
+				"unit": "元\/每平米",
+				"jgbz": "",
+				"img": "https:\/\/ks3-cn-beijing.ksyun.com\/ddm\/Public\/static\/images\/service\/2018-04-24\/201804240847293210.png",
+				"wxts": "1.所擦玻璃如有贴膜请提前向技师告知，以便得到专业处理；\r\n2.建议每季度预约一次擦玻璃服务，晴天效果最佳；\r\n3.此服务报价为不含税价格，不提供发票；\r\n4.由于天黑看不清楚，请预约时间早8点到下午2点的服务；"
+			}
+    },
+    {
+      "id": 20,
+      "name": "空房开荒",
+      "type": 2,
+      "icon": "http://dingdangmall.wozdf.com/Public/static/images/service/2019-01-09/1901091453209901.png",
+      "keywords": "入住前房屋全面清洁",
+      "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2018-04-23/201804231900306469.png",
+      "info": "[{\"second_id\":\"190\",\"name\":\"\\u542b\\u64e6\\u73bb\\u7483\",\"info_type\":\"1\",\"pay_type\":\"1\",\"pay_name\":\"\\u9762\\u79ef\\uff08\\u542b\\u73bb\\u7483\\uff09\",\"pay_info\":{\"pay_info_id\":\"246\",\"price\":\"9.90\",\"unit\":\"\\u5e73\\u65b9\",\"num\":50,\"hour\":\"15.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}},{\"second_id\":\"191\",\"name\":\"\\u4e0d\\u542b\\u64e6\\u73bb\\u7483\",\"info_type\":\"2\",\"pay_type\":\"1\",\"pay_name\":\"\\u9762\\u79ef\\uff08\\u4e0d\\u542b\\u73bb\\u7483\\uff09\",\"pay_info\":{\"pay_info_id\":\"247\",\"price\":\"7.90\",\"unit\":\"\\u5e73\\u65b9\",\"num\":50,\"hour\":\"20.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}}]",
+      "iconColor": "http://dingdangmall.wozdf.com/Public/static/images/service/2018-10-23/1810231509526766.png",
+      "infos": {
+				"price": "9.90",
+				"unit": "元\/平米",
+				"jgbz": "一次服务 50平米起拍",
+				"img": "https:\/\/ks3-cn-beijing.ksyun.com\/ddm\/Public\/static\/images\/service\/2018-06-06\/201806061151367255.png",
+				"wxts": "1.开荒服务收费方式按房屋“建筑面积”计费；\r\n2.此服务报价为不含税价格，不提供发票；\r\n3.凡预约时间超过当天17点以后的订单，每单每小时需额外加收10元\/小时的加班费；\r\n4.此价格包含擦玻璃；"
+			}
+    },
+    {
+      "id": 33,
+      "name": "房屋消毒",
+      "type": 1,
+      "icon": "http://dingdangmall.wozdf.com/Public/static/images/service/2018-10-23/1810231400442437.png",
+      "keywords": "",
+      "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2018-06-14/201806141505425074.jpg",
+      "info": "{\"name\":\"房屋消毒\",\"second_id\":\"206\",\"pay_type\":\"1\",\"info_type\":\"1\",\"pay_name\":\"按面积计费\",\"pay_info\":{\"pay_info_id\":\"268\",\"price\":\"12.80\",\"unit\":\"平米\",\"num\":50,\"hour\":\"10.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}}",
+      "iconColor": "http://dingdangmall.wozdf.com/Public/static/images/service/2018-10-23/1810231510369639.png",
+      "infos": {
+				"price": "12.80",
+				"unit": "元",
+				"jgbz": "",
+				"img": "https:\/\/ks3-cn-beijing.ksyun.com\/ddm\/Public\/static\/images\/service\/2018-06-14\/201806141507172747.jpg",
+				"wxts": "1.本产品包含房屋保洁+消毒，50平米起卖\r\n2.此服务价格为不含税价格，不提供发票\r\n3.凡预约时间超过当天17点以后的订单，每单每小时需额外加收10元\/小时的加班费"
+			}
+    },
+    {
+      "id": 23,
+      "name": "厨房保养",
+      "type": 1,
+      "icon": "http://dingdangmall.wozdf.com/Public/static/images/service/2018-10-23/1810231400249842.png",
+      "keywords": "厨房全方位立体式保洁杀菌消毒",
+      "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2018-04-23/201804231859587846.png",
+      "info": "{\"name\":\"厨房保养\",\"second_id\":\"195\",\"pay_type\":\"1\",\"info_type\":\"1\",\"pay_name\":\"房间个数\",\"pay_info\":{\"pay_info_id\":\"251\",\"price\":\"398.00\",\"unit\":\"间\",\"num\":1,\"hour\":\"0.50\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}}",
+      "iconColor": "http://dingdangmall.wozdf.com/Public/static/images/service/2018-10-23/1810231510138658.png",
+      "infos": {
+				"price": "398.00",
+				"unit": "元\/间",
+				"jgbz": "",
+				"img": "https:\/\/ks3-cn-beijing.ksyun.com\/ddm\/Public\/static\/images\/service\/2018-04-23\/201804231907214075.png",
+				"wxts": "• 全方位360度立体式保洁\r\n• 全方位无缝隙杀菌消毒\r\n• 不锈钢 陶瓷 铝制用具保养\r\n• 消毒柜高温蒸熏\r\n• 物品迁移 整理归位\r\n• 凡预约时间超过17点以后的订单，每单每小时需额外加收10元\/小时的加班费\r\n• 此服务报价为不含税价格，不提供发票"
+			}
+    },
+    {
+      "id": 24,
+      "name": "卫生间保养",
+      "type": 1,
+      "icon": "http://dingdangmall.wozdf.com/Public/static/images/service/2018-10-23/1810231401039815.png",
+      "keywords": "卫生间全方位立体式保洁杀菌消毒",
+      "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2018-04-23/201804231859482865.png",
+      "info": "{\"name\":\"卫生间保养\",\"second_id\":\"196\",\"pay_type\":\"1\",\"info_type\":\"1\",\"pay_name\":\"服务个数\",\"pay_info\":{\"pay_info_id\":\"252\",\"price\":\"298.00\",\"unit\":\"间\",\"num\":1,\"hour\":\"0.50\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}}",
+      "iconColor": "http://dingdangmall.wozdf.com/Public/static/images/service/2018-10-23/1810231510253871.png",
+      "infos": {
+				"price": "298.00",
+				"unit": "元\/间",
+				"jgbz": "（保洁+消毒）",
+				"img": "https:\/\/ks3-cn-beijing.ksyun.com\/ddm\/Public\/static\/images\/service\/2018-04-23\/201804231908422883.png",
+				"wxts": "• 卫生间360度立体式保洁\r\n• 无缝隙高温杀菌消毒作业\r\n• 不锈钢、陶瓷、铝制用品养护\r\n• 物品迁移清洁 整理归位\r\n• 凡预约时间超过17点以后的订单，每单每小时需额外加收10元\/小时的加班费\r\n• 此服务报价为不含税价格，不提供发票"
+			}
+    },
+    {
+      "id": 26,
+      "name": "沙发保养",
+      "type": 1,
+      "icon": "http://dingdangmall.wozdf.com/Public/static/images/service/2018-10-23/1810231400504099.png",
+      "keywords": "清理污垢养护沙发表面",
+      "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2018-04-23/201804231859058375.png",
+      "info": "{\"name\":\"沙发保养\",\"second_id\":\"197\",\"pay_type\":\"1\",\"info_type\":\"1\",\"pay_name\":\"座位数\",\"pay_info\":{\"pay_info_id\":\"253\",\"price\":\"120.00\",\"unit\":\"座\",\"num\":2,\"hour\":\"1.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}}",
+      "iconColor": "http://dingdangmall.wozdf.com/Public/static/images/service/2018-10-23/1810231510582748.png",
+      "infos": {
+				"price": "120.00",
+				"unit": "元\/座",
+				"jgbz": "",
+				"img": "https:\/\/ks3-cn-beijing.ksyun.com\/ddm\/Public\/static\/images\/service\/2018-04-25\/201804251410251437.png",
+				"wxts": "1.拐角长座按2座位计价\r\n2.清洗沙发表面\r\n3.沙发360度全方位杀菌消毒\r\n4.皮沙发手工上蜡抛光还沙发原有光泽，布艺沙发为清洗；\r\n5.凡预约时间超过当天17点以后的订单，每单每小时需额外加收10元\/小时的加班费\r\n6.此服务报价为不含税价格，不提供发票；"
+			}
+    },
+    {
+      "id": 43,
+      "name": "保洁+擦玻璃",
+      "type": 1,
+      "icon": "http://dingdangmall.wozdf.com/Public/static/images/service/2019-01-09/1901091453524528.png",
+      "keywords": "守时保质",
+      "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2019-01-09/201901091453049734.png",
+      "info": "{\"name\":\"保洁+擦玻璃\",\"second_id\":\"228\",\"pay_type\":\"1\",\"info_type\":\"1\",\"pay_name\":\"服务时长\",\"pay_info\":{\"pay_info_id\":\"297\",\"price\":\"145.00\",\"unit\":\"组\",\"num\":2,\"hour\":\"2.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}}",
+      "iconColor": "http://dingdangmall.wozdf.com/Public/static/images/service/2019-01-09/1901091454239978.png",
+      "infos": {
+				"price": "145.00",
+				"unit": "元\/小时",
+				"jgbz": "",
+				"img": "https:\/\/ks3-cn-beijing.ksyun.com\/ddm\/Public\/static\/images\/service\/2019-01-09\/201901091453206748.png",
+				"wxts": "本服务：两小时起；\r\n1.1小时服务包含：1小时擦玻璃+1小时保洁；\r\n2.买2小时可享受：2小时擦玻璃+2小时保洁的服务；\r\n3.此服务价格为不含税价格，不提供发票"
+			}
+    },
+    {
+      "id": 21,
+      "name": "窗帘清洗",
+      "type": 1,
+      "icon": "http://dingdangmall.wozdf.com/Public/static/images/service/2019-05-13/1905131001198481.png",
+      "keywords": "窗帘污垢的去除清洁",
+      "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2018-04-23/201804231900191976.png",
+      "info": "{\"name\":\"窗帘清洗\",\"second_id\":\"192\",\"pay_type\":\"1\",\"info_type\":\"1\",\"pay_name\":\"物品重量\",\"pay_info\":{\"pay_info_id\":\"248\",\"price\":\"25.00\",\"unit\":\"斤\",\"num\":10,\"hour\":\"10.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}}",
+      "iconColor": "http://dingdangmall.wozdf.com/Public/static/images/service/2018-10-23/1810231509577482.png",
+      "infos": {
+				"price": "25.00",
+				"unit": "元\/斤",
+				"jgbz": "以实际称重为准",
+				"img": "https:\/\/ks3-cn-beijing.ksyun.com\/ddm\/Public\/static\/images\/service\/2018-04-23\/201804231905428477.png",
+				"wxts": "1.此费用包含拆卸 清洗 车辆等所有费用\r\n2.窗帘不易于拆卸，清洗不当很容易变形，不建议自行拆洗\r\n3.凡预约时间超过17点以后的订单，每单每小时需额外加收10元\/小时的加班费\r\n4.此服务报价为不含税价格，不提供发票；"
+			}
+    },
+    {
+      "id": 22,
+      "name": "地毯清洗",
+      "type": 1,
+      "icon": "http://dingdangmall.wozdf.com/Public/static/images/service/2019-05-13/1905131001292558.png",
+      "keywords": "地毯灰尘及污垢的去除清洁",
+      "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2018-04-23/201804231900097346.png",
+      "info": "{\"name\":\"地毯清洗\",\"second_id\":\"193\",\"pay_type\":\"1\",\"info_type\":\"1\",\"pay_name\":\"按平米计费\",\"pay_info\":{\"pay_info_id\":\"249\",\"price\":\"100.00\",\"unit\":\"平方\",\"num\":4,\"hour\":\"4.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"5\",\"info\":[{\"start\":\"1\",\"end\":\"5\",\"amount\":\"80\"},{\"start\":\"6\",\"end\":\"10\",\"amount\":\"30\"},{\"start\":\"11\",\"end\":\"20\",\"amount\":\"10\"},{\"start\":\"21\",\"end\":\"30\",\"amount\":\"8\"},{\"start\":\"31\",\"end\":\"9999\",\"amount\":\"6\"}]}}",
+      "iconColor": "http://dingdangmall.wozdf.com/Public/static/images/service/2018-10-23/1810231510051930.png",
+      "infos": {
+				"price": "400.00",
+				"unit": "元起",
+				"jgbz": "",
+				"img": "https:\/\/ks3-cn-beijing.ksyun.com\/ddm\/Public\/static\/images\/service\/2018-05-10\/201805101135049513.jpg",
+				"wxts": "1.小面积地毯带离现场清洗，清洗完毕送货到家\r\n2.地毯收费规则：5平米及以下400元，超出后计费方式如下——6-10平米的部分30元\/平米，11-20平米的部分10元\/平米，21-30平米的部分8元\/平米，31平米及以上的部分6元\/平米\r\n3.凡预约时间超过17点以后的订单，每单每小时需额外加收10元\/小时的加班费\r\n4.此服务报价为不含税价格，不提供发票；\r\n"
+			}
+    },
+    {
+      "id": 28,
+      "name": "地板保养",
+      "type": 1,
+      "icon": "http://dingdangmall.wozdf.com/Public/static/images/service/2019-05-13/1905131003469121.png",
+      "keywords": "地板打蜡",
+      "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2018-05-03/201805031903051768.png",
+      "info": "{\"name\":\"地板保养\",\"second_id\":\"198\",\"pay_type\":\"1\",\"info_type\":\"1\",\"pay_name\":\"地板面积\",\"pay_info\":{\"pay_info_id\":\"254\",\"price\":\"18.00\",\"unit\":\"平米\",\"num\":20,\"hour\":\"35.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}}",
+      "iconColor": "http://dingdangmall.wozdf.com/Public/static/images/service/2018-10-23/1810231510536839.png",
+      "infos": {
+				"price": "18.00",
+				"unit": "元\/平米",
+				"jgbz": "",
+				"img": "https:\/\/ks3-cn-beijing.ksyun.com\/ddm\/Public\/static\/images\/service\/2018-05-21\/201805211337171886.jpg",
+				"wxts": "1.地板蜡属于易燃危险品，并且上蜡很难做到均匀光滑，不建议自己动手打蜡，需经过专业培训的养护师正确使用专业工具，才可使您的地板均匀光亮；\r\n2.凡预约时间超过当天17点以后的订单，每单每小时需额外加收10元\/小时的加班费；\r\n3.此服务报价为不含税价格，不提供发票；"
+			}
+    },
+    {
+      "id": 35,
+      "name": "计时保姆",
+      "type": 1,
+      "icon": "http://dingdangmall.wozdf.com/Public/static/images/service/2019-05-13/1905131031051760.png",
+      "keywords": "",
+      "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2018-05-22/201805221849147667.png",
+      "info": "{\"name\":\"计时保姆\",\"second_id\":\"208\",\"pay_type\":\"1\",\"info_type\":\"1\",\"pay_name\":\"详情咨询客服\",\"pay_info\":{\"pay_info_id\":\"270\",\"price\":\"80.00\",\"unit\":\"小时\",\"num\":2,\"hour\":\"1.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}}",
+      "iconColor": "http://dingdangmall.wozdf.com/Public/static/images/service/2018-10-23/1810231510297240.png",
+      "infos": {
+				"price": "80.00",
+				"unit": "元\/小时",
+				"jgbz": "",
+				"img": "https:\/\/ks3-cn-beijing.ksyun.com\/ddm\/Public\/static\/images\/service\/2018-05-23\/201805231046392282.jpg",
+				"wxts": "1.此服务项目以小时收费\r\n2.具体服务内容可私人定制\r\n3.详情咨询客服电话4008-128-095"
+			}
+    },
+    {
+      "id": 36,
+      "name": "甲醛净化",
+      "type": 2,
+      "icon": "http://dingdangmall.wozdf.com/Public/static/images/service/2019-05-13/1905131004053687.png",
+      "keywords": "",
+      "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2018-08-15/201808151510026351.png",
+      "info": "[{\"second_id\":\"209\",\"name\":\"\\u7532\\u919b\\u68c0\\u6d4b\",\"info_type\":\"1\",\"pay_type\":\"1\",\"pay_name\":\"\\u670d\\u52a1\\u9762\\u79ef\",\"pay_info\":{\"pay_info_id\":\"271\",\"price\":\"38.00\",\"unit\":\"\\u5e73\\u7c73\",\"num\":30,\"hour\":\"30.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}},{\"second_id\":\"211\",\"name\":\"\\u7532\\u919b\\u6cbb\\u7406\",\"info_type\":\"2\",\"pay_type\":\"1\",\"pay_name\":\"\\u623f\\u5c4b\\u9762\\u79ef\",\"pay_info\":{\"pay_info_id\":\"273\",\"price\":\"58.00\",\"unit\":\"\\u5e73\\u7c73\",\"num\":30,\"hour\":\"30.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}}]",
+      "iconColor": "http://dingdangmall.wozdf.com/Public/static/images/service/2018-10-23/1810231511032426.png",
+      "infos": {
+				"price": "38.00",
+				"unit": "元\/平米",
+				"jgbz": "",
+				"img": "https:\/\/ks3-cn-beijing.ksyun.com\/ddm\/Public\/static\/images\/service\/2018-08-15\/201808151626357892.jpg",
+				"wxts": "1.此服务为装修污染后进行的房屋甲醛检测\r\n2.此服务为30平米起做，如不满30平米按30平米计算\r\n3.此服务价格为不含税价格，不提供发票\r\n4.凡预约时间超过当天17点30分以后的订单，每单每小时需额外加收10元\/小时的加班费"
+			}
+    },
+    {
+      "id": 40,
+      "name": "除螨",
+      "type": 2,
+      "icon": "http://dingdangmall.wozdf.com/Public/static/images/service/2019-05-13/1905131004189505.png",
+      "keywords": "",
+      "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2018-10-11/201810111517105904.png",
+      "info": "[{\"second_id\":\"225\",\"name\":\"\\u5e8a\\u57ab\\u9664\\u87a8\",\"info_type\":\"1\",\"pay_type\":\"1\",\"pay_name\":\"\\u6309\\u4e2a\\u8ba1\\u7b97\",\"pay_info\":{\"pay_info_id\":\"294\",\"price\":\"200.00\",\"unit\":\"\\u4e2a\",\"num\":1,\"hour\":\"1.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}},{\"second_id\":\"239\",\"name\":\"\\u6c99\\u53d1\\u9664\\u87a8\",\"info_type\":\"2\",\"pay_type\":\"1\",\"pay_name\":\"\\u6309\\u5ea7\\u8ba1\\u7b97\",\"pay_info\":{\"pay_info_id\":\"308\",\"price\":\"80.00\",\"unit\":\"\\u5ea7\",\"num\":2,\"hour\":\"2.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}}]",
+      "iconColor": "http://dingdangmall.wozdf.com/Public/static/images/service/2018-10-23/1810231511063864.png",
+      "infos": {
+				"price": "200.00",
+				"unit": "元\/个",
+				"jgbz": "",
+				"img": "https:\/\/ks3-cn-beijing.ksyun.com\/ddm\/Public\/static\/images\/service\/2018-10-11\/201810111526426208.png",
+				"wxts": "1.此项目为1张床起拍\r\n2.可对床垫进行针对性除螨\r\n3.此服务价格为不含税价格，不提供发票\r\n4.除螨设备为专业除螨机和高温消毒机"
+			}
+    },
+    {
+      "id": 46,
+      "name": "除霉",
+      "type": 1,
+      "icon": "http://dingdangmall.wozdf.com/Public/static/images/service/2019-05-13/1905131004294412.png",
+      "keywords": "",
+      "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2019-02-27/201902271042586173.png",
+      "info": "{\"name\":\"除霉\",\"second_id\":\"231\",\"pay_type\":\"1\",\"info_type\":\"1\",\"pay_name\":\"按面积计算\",\"pay_info\":{\"pay_info_id\":\"300\",\"price\":\"200.00\",\"unit\":\"平米\",\"num\":1,\"hour\":\"1.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}}",
+      "iconColor": "http://dingdangmall.wozdf.com/Public/static/images/service/2019-02-27/1902271058087343.png",
+      "infos": {
+				"price": "200.00",
+				"unit": "元",
+				"jgbz": "",
+				"img": "https:\/\/ks3-cn-beijing.ksyun.com\/ddm\/Public\/static\/images\/service\/2019-03-25\/201903251709373413.png",
+				"wxts": "1、此价格为1平米费用，上门确定除霉面积后需补除霉面积的价格；\r\n2、此服务报价为不含税价格，不提供发票；\r\n3、此项目只针对墙壁除霉；"
+			}
+    },
+    {
+      "id": 53,
+      "name": "大理石保养",
+      "type": 1,
+      "icon": "http://dingdangmall.wozdf.com/Public/static/images/service/2019-05-13/1905131051092119.png",
+      "keywords": "10平米起",
+      "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2019-04-17/201904171517121867.png",
+      "info": "{\"name\":\"大理石保养\",\"second_id\":\"238\",\"pay_type\":\"1\",\"info_type\":\"1\",\"pay_name\":\"服务面积\",\"pay_info\":{\"pay_info_id\":\"307\",\"price\":\"45.00\",\"unit\":\"平米\",\"num\":10,\"hour\":\"1.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}}",
+      "iconColor": "http://dingdangmall.wozdf.com/Public/static/images/service/2019-04-17/1904171552236026.png",
+      "infos": {
+				"price": "45.00",
+				"unit": "元\/平米",
+				"jgbz": "10平米起拍",
+				"img": "https:\/\/ks3-cn-beijing.ksyun.com\/ddm\/Public\/static\/images\/service\/2019-04-17\/201904171549239296.png",
+				"wxts": "1、大理石保养按平米收费，10平米起上门服务，不足10平米按10平米收费；\r\n2、服务流程：专业大理石清洗剂清洗表面污渍+再做大理石结晶，使地面光亮如新；\r\n3、此服务报价为不含税价格，不提供发票；"
+			}
+    },
+    {
+      "id": 55,
+      "name": "地面防滑",
+      "type": 2,
+      "icon": "http://dingdangmall.wozdf.com/",
+      "keywords": "",
+      "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2019-11-25/201911251034474529.png",
+      "info": "[{\"second_id\":\"241\",\"name\":\"\\u5bb6\\u5ead\\u9632\\u6ed1\",\"info_type\":\"1\",\"pay_type\":\"1\",\"pay_name\":\"\\u670d\\u52a1\\u7a7a\\u95f4\",\"pay_info\":{\"pay_info_id\":\"310\",\"price\":\"640.00\",\"unit\":\"\\u95f4\",\"num\":2,\"hour\":\"2.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}},{\"second_id\":\"242\",\"name\":\"\\u5546\\u4e1a\\u9632\\u6ed1\",\"info_type\":\"2\",\"pay_type\":\"1\",\"pay_name\":\"\\u670d\\u52a1\\u9762\\u79ef\",\"pay_info\":{\"pay_info_id\":\"311\",\"price\":\"70.00\",\"unit\":\"\\u5e73\\u7c73\",\"num\":50,\"hour\":\"3.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}}]",
+      "iconColor": "http://dingdangmall.wozdf.com/Public/static/images/service/2019-11-26/1911261202137964.png",
+      "infos": {
+				"price": "640.00",
+				"unit": "元\/空间",
+				"jgbz": "",
+				"img": "https:\/\/ks3-cn-beijing.ksyun.com\/ddm\/Public\/static\/images\/service\/2019-11-27\/201911271645188062.jpg",
+				"wxts": "1、商家将在您下单后1小时内确认接单;\r\n2、订单确认后，修改订单或退款需提前2小时通知;\r\n3、预约时间前2小时内退单将按30元\/人扣取空单费;\r\n4、为保障您的权益，所有费用请通过平台支付。"
+			}
+    },
+    {
+      "id": 31,
+      "name": "油烟机清洗",
+      "type": 1,
+      "icon": "http://dingdangmall.wozdf.com/Public/static/images/service/2018-10-23/1810231400553083.png",
+      "keywords": "",
+      "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2018-05-22/201805221848275114.png",
+      "info": "{\"name\":\"油烟机清洗\",\"second_id\":\"202\",\"pay_type\":\"1\",\"info_type\":\"1\",\"pay_name\":\"按个数计价\",\"pay_info\":{\"pay_info_id\":\"264\",\"price\":\"180.00\",\"unit\":\"台\",\"num\":1,\"hour\":\"1.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}}",
+      "iconColor": "http://dingdangmall.wozdf.com/Public/static/images/service/2018-10-23/1810231510464777.png",
+      "infos": {
+				"price": "180.00",
+				"unit": "元\/台",
+				"jgbz": "",
+				"img": "https:\/\/ks3-cn-beijing.ksyun.com\/ddm\/Public\/static\/images\/service\/2018-05-21\/201805211423503845.jpg",
+				"wxts": "1.此服务按台数收费\r\n2.如油烟机贵重或特殊材质需要注意，请您提前和技师说明\r\n3.服务范围：油烟机外观清洗 油烟机油网拆装清洗 油烟机涡轮除油 油烟机油盒清洗消毒\r\n4.凡预约时间超过当天17点以后的订单，每单每小时需额外加收10元\/小时的加班费\r\n5.此服务价格为不含税价格，不提供发票"
+			}
+    },
+    {
+      "id": 32,
+      "name": "空调清洗",
+      "type": 2,
+      "icon": "http://dingdangmall.wozdf.com/",
+      "keywords": "",
+      "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2018-05-22/201805221848427156.png",
+      "info": "[{\"second_id\":\"203\",\"name\":\"\\u6302\\u673a\",\"info_type\":\"1\",\"pay_type\":\"1\",\"pay_name\":\"\\u6302\\u673a\\u6309\\u53f0\\u8ba1\\u8d39\",\"pay_info\":{\"pay_info_id\":\"265\",\"price\":\"120.00\",\"unit\":\"\\u53f0\",\"num\":1,\"hour\":\"1.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}},{\"second_id\":\"204\",\"name\":\"\\u67dc\\u673a\",\"info_type\":\"2\",\"pay_type\":\"1\",\"pay_name\":\"\\u67dc\\u673a\\u6309\\u53f0\\u8ba1\\u8d39\",\"pay_info\":{\"pay_info_id\":\"266\",\"price\":\"199.00\",\"unit\":\"\\u53f0\",\"num\":1,\"hour\":\"1.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}},{\"second_id\":\"205\",\"name\":\"\\u4e2d\\u592e\\u7a7a\\u8c03\",\"info_type\":\"3\",\"pay_type\":\"1\",\"pay_name\":\"\\u6309\\u51fa\\u98ce\\u53e3\\u8ba1\\u8d39\",\"pay_info\":{\"pay_info_id\":\"267\",\"price\":\"90.00\",\"unit\":\"\\u53e3\",\"num\":2,\"hour\":\"1.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}}]",
+      "iconColor": "http://dingdangmall.wozdf.com/Public/static/images/service/2018-10-23/1810231510414083.png",
+      "infos": {
+				"price": "120.00",
+				"unit": "元\/台",
+				"jgbz": "",
+				"img": "https:\/\/ks3-cn-beijing.ksyun.com\/ddm\/Public\/static\/images\/service\/2018-05-21\/201805211435244236.jpg",
+				"wxts": "1.挂式空调清洗包含过滤网 散热片清洗，并且对其进行高温蒸气消毒 \r\n2.凡预约时间超过当天17点以后的订单，每单每小时需额外加收10元\/小时的加班费\r\n3.空调挂机2台起上门服务\r\n4.此服务价格为不含税价格，不提供发票"
+			}
+    },
+    {
+      "id": 44,
+      "name": "洗衣机清洗",
+      "type": 1,
+      "icon": "http://dingdangmall.wozdf.com/",
+      "keywords": "",
+      "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2019-02-27/201902270918054756.png",
+      "info": "{\"name\":\"洗衣机清洗\",\"second_id\":\"229\",\"pay_type\":\"1\",\"info_type\":\"1\",\"pay_name\":\"按台数计算\",\"pay_info\":{\"pay_info_id\":\"298\",\"price\":\"180.00\",\"unit\":\"台\",\"num\":1,\"hour\":\"1.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}}",
+      "iconColor": "http://dingdangmall.wozdf.com/Public/static/images/service/2019-02-27/1902271057518908.png",
+      "infos": {
+				"price": "180.00",
+				"unit": "元\/台",
+				"jgbz": "",
+				"img": "https:\/\/ks3-cn-beijing.ksyun.com\/ddm\/Public\/static\/images\/service\/2019-03-25\/201903251710454971.png",
+				"wxts": "1.此服务只包含清洗，不包含维修服务；\r\n2.波轮洗衣机可拆机清洗，滚筒洗衣机为不拆机清洗；\r\n3.此服务报价为不含税价格，不提供发票；"
+			}
+    },
+    {
+      "id": 45,
+      "name": "冰箱清洁",
+      "type": 1,
+      "icon": "http://dingdangmall.wozdf.com/",
+      "keywords": "",
+      "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2019-02-27/201902271037174439.png",
+      "info": "{\"name\":\"冰箱清洁\",\"second_id\":\"230\",\"pay_type\":\"1\",\"info_type\":\"1\",\"pay_name\":\"按台计算\",\"pay_info\":{\"pay_info_id\":\"299\",\"price\":\"180.00\",\"unit\":\"台\",\"num\":1,\"hour\":\"1.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}}",
+      "iconColor": "http://dingdangmall.wozdf.com/Public/static/images/service/2019-02-27/1902271058012506.png",
+      "infos": {
+				"price": "180.00",
+				"unit": "元\/台",
+				"jgbz": "",
+				"img": "https:\/\/ks3-cn-beijing.ksyun.com\/ddm\/Public\/static\/images\/service\/2019-03-25\/201903251710241228.png",
+				"wxts": "冰箱清洁保养，按台收费"
+			}
+    },
+    {
+      "id": 54,
+      "name": "热水器清洗",
+      "type": 1,
+      "icon": "http://dingdangmall.wozdf.com/",
+      "keywords": "",
+      "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2019-04-26/201904260943333647.png",
+      "info": "{\"name\":\"热水器清洗\",\"second_id\":\"240\",\"pay_type\":\"1\",\"info_type\":\"1\",\"pay_name\":\"按个数计价\",\"pay_info\":{\"pay_info_id\":\"309\",\"price\":\"180.00\",\"unit\":\"台\",\"num\":1,\"hour\":\"1.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}}",
+      "iconColor": "http://dingdangmall.wozdf.com/Public/static/images/service/2019-04-26/1904261949422775.png",
+      "infos": {
+				"price": "180.00",
+				"unit": "元\/台",
+				"jgbz": "",
+				"img": "https:\/\/ks3-cn-beijing.ksyun.com\/ddm\/Public\/static\/images\/service\/2019-04-26\/201904261935545460.png",
+				"wxts": "1.此项目服务只负责清洗，不负责维修\r\n2.此服务价格为不含税价格，不提供发票\r\n3.凡预约时间超过当天17点以后的订单，每单每小时需额外加收10元\/小时的加班费\r\n"
+			}
+    }
+  ]
+}
