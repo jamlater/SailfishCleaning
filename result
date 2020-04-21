@@ -1,4 +1,74 @@
 {
+  "banner":[
+    {
+      "title": "深度保洁，清爽家居",
+      "id": "1",
+      "img": "https://raw.githubusercontent.com/zhjada/SailfishCleaning/master/banner.png",
+      "link": ""
+    }
+  ],
+  "hot": [
+        {
+          "id": "55",
+          "name": "地面防滑",
+          "type": "2",
+          "icon": "http://dingdangmall.wozdf.com/",
+          "keywords": "",
+          "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2019-11-27/201911271645188062.jpg",
+          "info": "[{\"second_id\":\"241\",\"name\":\"\\u5bb6\\u5ead\\u9632\\u6ed1\",\"info_type\":\"1\",\"pay_type\":\"1\",\"pay_name\":\"\\u670d\\u52a1\\u7a7a\\u95f4\",\"pay_info\":{\"pay_info_id\":\"310\",\"price\":\"640.00\",\"unit\":\"\\u95f4\",\"num\":2,\"hour\":\"2.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}},{\"second_id\":\"242\",\"name\":\"\\u5546\\u4e1a\\u9632\\u6ed1\",\"info_type\":\"2\",\"pay_type\":\"1\",\"pay_name\":\"\\u670d\\u52a1\\u9762\\u79ef\",\"pay_info\":{\"pay_info_id\":\"311\",\"price\":\"70.00\",\"unit\":\"\\u5e73\\u7c73\",\"num\":50,\"hour\":\"3.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}}]",
+          "iconWhite": "http://dingdangmall.wozdf.com/Public/static/images/service/2019-11-27/1911271105552494.png",
+          "iconGrey": "http://dingdangmall.wozdf.com/Public/static/images/service/2019-11-27/1911271106457039.png",
+          "price": "640.00",
+          "unit": "间",
+          "infos": {
+            "price": "640.00",
+            "unit": "元/空间",
+            "jgbz": "",
+            "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2019-11-27/201911271645188062.jpg",
+            "wxts": "1、商家将在您下单后1小时内确认接单;\r\n2、订单确认后，修改订单或退款需提前2小时通知;\r\n3、预约时间前2小时内退单将按30元/人扣取空单费;\r\n4、为保障您的权益，所有费用请通过平台支付。"
+          }
+        },
+        {
+          "id": "54",
+          "name": "热水器清洗",
+          "type": "1",
+          "icon": "http://dingdangmall.wozdf.com/",
+          "keywords": "",
+          "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2019-04-26/201904261935545460.png",
+          "info": "{\"name\":\"热水器清洗\",\"second_id\":\"240\",\"pay_type\":\"1\",\"info_type\":\"1\",\"pay_name\":\"按个数计价\",\"pay_info\":{\"pay_info_id\":\"309\",\"price\":\"180.00\",\"unit\":\"台\",\"num\":1,\"hour\":\"1.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}}",
+          "iconWhite": "http://dingdangmall.wozdf.com/Public/static/images/service/2019-04-26/1904261949126516.png",
+          "iconGrey": "http://dingdangmall.wozdf.com/Public/static/images/service/2019-04-26/1904261949271392.png",
+          "price": "180.00",
+          "unit": "台",
+          "infos": {
+  "price": "180.00",
+  "unit": "元/台",
+  "jgbz": "",
+  "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2019-04-26/201904261935545460.png",
+  "wxts": "1.此项目服务只负责清洗，不负责维修\r\n2.此服务价格为不含税价格，不提供发票\r\n3.凡预约时间超过当天17点以后的订单，每单每小时需额外加收10元/小时的加班费\r\n"
+}
+        },
+        {
+          "id": "45",
+          "name": "冰箱清洁",
+          "type": "1",
+          "icon": "http://dingdangmall.wozdf.com/",
+          "keywords": "",
+          "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2019-03-25/201903251710241228.png",
+          "info": "{\"name\":\"冰箱清洁\",\"second_id\":\"230\",\"pay_type\":\"1\",\"info_type\":\"1\",\"pay_name\":\"按台计算\",\"pay_info\":{\"pay_info_id\":\"299\",\"price\":\"180.00\",\"unit\":\"台\",\"num\":1,\"hour\":\"1.00\",\"req_skill_num\":\"1\"},\"pay_info_new\":{\"start\":\"\",\"info\":[]}}",
+          "iconWhite": "http://dingdangmall.wozdf.com/Public/static/images/service/2019-02-27/1902271051316414.png",
+          "iconGrey": "http://dingdangmall.wozdf.com/Public/static/images/service/2019-02-27/1902271055051097.png",
+          "price": "180.00",
+          "unit": "台",
+          "infos": {
+  "price": "180.00",
+  "unit": "元/台",
+  "jgbz": "",
+  "img": "https://ks3-cn-beijing.ksyun.com/ddm/Public/static/images/service/2019-03-25/201903251710241228.png",
+  "wxts": "冰箱清洁保养，按台收费"
+}
+        }
+      ],
   "data": [
     {
       "id": 16,
