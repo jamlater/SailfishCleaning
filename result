@@ -1,10 +1,20 @@
 {
-  "banner":[
+  "banner": [
     {
       "title": "深度保洁，清爽家居",
       "id": "1",
       "img": "https://raw.githubusercontent.com/zhjada/SailfishCleaning/master/banner.png",
       "link": ""
+    }
+  ],
+  "activity": [
+    {
+      "title": "易清洁正式上线AppStore啦，赶紧去预约保洁服务吧！",
+      "date": "2020-4-21"
+    },
+    {
+      "title": "易清洁您的保洁伴侣，深度保洁，清爽家居生活。",
+      "date": "2020-4-21"
     }
   ],
   "hot": [
